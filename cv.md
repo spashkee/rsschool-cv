@@ -2,6 +2,6 @@
 ## nomorelies61@gmail.com
 
 
-function multiply(a, b){
+# function multiply(a, b){
 return a * b;
 }
