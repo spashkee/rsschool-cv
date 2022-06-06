@@ -10,6 +10,7 @@ I don't have programming skills, but I want to learn
   return a * b;
   }
 ***
+
 **I do not have work experience**
 
 ***Incomplete higher education in economics***
